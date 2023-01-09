@@ -1,0 +1,17 @@
+Connected
+Sending payload with 512 bytes per TCP Payload
+Cycles to send full payload (512 bytes/TCP payload): 482213552920 
+Sending payload with 1024 bytes per TCP Payload
+Cycles to send full payload (1024 bytes/TCP payload): 240096127564 
+Sending payload with 2048 bytes per TCP Payload
+Cycles to send full payload (2048 bytes/TCP payload): 157979175924 
+Sending payload with 4096 bytes per TCP Payload
+Cycles to send full payload (4096 bytes/TCP payload): 41424881802 
+Sending payload with 8192 bytes per TCP Payload
+Cycles to send full payload (8192 bytes/TCP payload): 44187912522 
+Sending payload with 16384 bytes per TCP Payload
+Cycles to send full payload (16384 bytes/TCP payload): 20937482922 
+Sending payload with 32768 bytes per TCP Payload
+Cycles to send full payload (32768 bytes/TCP payload): 7432095800 
+Sending payload with 64000 bytes per TCP Payload
+Cycles to send full payload (64000 bytes/TCP payload): 3480024486 
