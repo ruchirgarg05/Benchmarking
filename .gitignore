@@ -1,0 +1,9 @@
+executables/*
+.vscode
+**/.ipynb_checkpoints
+
+report_tex/*.aux
+report_tex/*.fdb_latexmk
+report_tex/*.fls
+report_tex/*.log
+report_tex/*.synctex.gz
